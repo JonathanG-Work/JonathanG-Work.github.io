@@ -20,5 +20,3 @@ Specialists in assisting cultural sector organizations, particularly libraries a
 ## Contact
 
 Please feel free to contact us, without any obligation, at: [info@shafferandco.uk](mailto:info@shafferandco.uk)
-
-<img src="Logo-Shaffer Co.png" alt="Shaffer and Co Logo" width=200>
