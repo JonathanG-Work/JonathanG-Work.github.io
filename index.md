@@ -1,7 +1,7 @@
 ---
 title: Shaffer and Co Ltd
 ---
-<img src="Logo-Shaffer Co.png" alt="Shaffer and Co Logo" width="200">
+<img src="Logo-Shaffer Co.png" alt="Shaffer and Co Logo" width="300">
 # Shaffer and Co Ltd
 ## Market Research and Data Analytics
 Niche consultancy with specific expertise across the public and not-for-profit sectors.
