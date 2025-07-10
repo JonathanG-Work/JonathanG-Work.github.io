@@ -1,4 +1,4 @@
-![Shaffer and Co] [Logo-Shaffer Co.png]
+![Shaffer and Co][Logo-Shaffer Co.png]
 # Shaffer and Co Ltd
 ## Market Research and Data Analytics
 Niche consultancy with specific expertise across the public and not-for-profit sectors.
