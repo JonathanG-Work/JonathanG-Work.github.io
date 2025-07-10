@@ -18,4 +18,4 @@ Specialist in assisting cultural sector organizations, particularly libraries an
 
 **Data visualisations**: Making complex data accessible to stakeholders and decision-makers  
 
-<img src="Logo-Shaffer Co.png" alt="Shaffer and Co Logo" width="200">
+<img src="Logo-Shaffer Co.png" alt="Shaffer and Co Logo" align="right">
