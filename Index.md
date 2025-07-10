@@ -1,4 +1,4 @@
-![Shaffer & Co] [Logo-Shaffer Co- embossed.png]
+![Shaffer and Co] [Logo-Shaffer Co- embossed.png]
 
 # Shaffer and Co Ltd
 ## Market Research and Data Analytics
