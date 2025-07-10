@@ -1,15 +1,13 @@
 ---
 layout: default
 ---
-### About
-
 Niche consultancy with specific expertise across the public and not-for-profit sectors.
 
-### Expertise
+## Expertise
 
 Specialists in assisting cultural sector organizations, particularly libraries and archives, understand their communities and demonstrate their value.
 
-### Services
+## Services
 
 **Impact measurement**: Building evidence to support funding and strategic decisions  
 
