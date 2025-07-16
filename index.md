@@ -1,3 +1,10 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2MCVK7CEZ5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-2MCVK7CEZ5');
+</script>
 ---
 layout: default
 ---
