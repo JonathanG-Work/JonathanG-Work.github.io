@@ -1,8 +1,9 @@
-scss---
+---
 ---
 
 @import "{{ site.theme }}";
 
-p, li {
+body {
   color: #333333 !important;
+  text-shadow: none !important;
 }
