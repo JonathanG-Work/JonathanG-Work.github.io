@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-gb" }}">
+  {% if page.noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
   <head>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-2MCVK7CEZ5"></script>
@@ -22,7 +23,7 @@
     <div id="container">
       <div class="inner">
         <section id="logo">
-          <img src="Logo-Shaffer Co- embossed.png" alt="Shaffer and Co Logo" width=auto>
+          <img src="{{ '/Logo-Shaffer Co- embossed.png' | relative_url }}" alt="Shaffer and Co Logo" width=auto>        
         </section>
         <hr>
         <section id="main_content">
