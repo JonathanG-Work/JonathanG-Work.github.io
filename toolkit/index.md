@@ -17,5 +17,4 @@ Version 0.5, September 2026.
 
 Questions, or a question you think is unanswerable as written:
 [jon.gordon@shafferandco.uk](mailto:jon.gordon@shafferandco.uk)
-[FraudRiskAssessmentToolkitCompletionGuide.pdf](https://github.com/user-attachments/files/31908237/FraudRiskAssessmentToolkitCompletionGuide.pdf)
 
