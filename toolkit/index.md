@@ -11,7 +11,7 @@ sitemap: false
 
 For services taking part in the pilot. Read this before starting the workbook.
 
-[Download the completion guide (PDF)](/toolkit/completion-guide.pdf)
+[Download the completion guide (PDF)](/toolkit/FraudRiskAssessmentToolkitCompletionGuide.pdf)
 
 Version 0.5, September 2026.
 
