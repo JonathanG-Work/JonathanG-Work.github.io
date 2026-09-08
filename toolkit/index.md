@@ -13,7 +13,7 @@ For services taking part in the pilot. Read this before starting the workbook.
 
 [Download the completion guide (PDF)](/toolkit/FraudRiskAssessmentToolkitCompletionGuide.pdf)
 
-Version 0.5, September 2026.
+Version 0.6, September 2026.
 
 Questions, or a question you think is unanswerable as written:
 [jon.gordon@shafferandco.uk](mailto:jon.gordon@shafferandco.uk)
